@@ -1,3 +1,3 @@
 # QueryDSL
 
-Studying QueryDSL
+📘 Studying QueryDSL
